@@ -1,6 +1,6 @@
-# heritage_game
+# QBMill
 
-A new Flutter project.
+Code for my MSc Project
 
 ## Getting Started
 
