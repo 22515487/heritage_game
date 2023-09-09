@@ -1,0 +1,1 @@
+/Users/aikenau/Documents/flutter_projects/heritage_game/build/rive_common/intermediates/cxx/RelWithDebInfo/6y5m2rg3/obj/x86_64
